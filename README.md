@@ -1,8 +1,9 @@
 Timothy Salazar
 
-timothy.salazar@colorado.edu
-https://www.linkedin.com/in/timothy-salazar/
-https://github.com/timothy-salazar
+email: timothy.salazar@colorado.edu
+
+linkedin: https://www.linkedin.com/in/timothy-salazar/
+
 
 
 ## Warwick Group Recruiting Assessment
