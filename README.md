@@ -1,4 +1,5 @@
 Timothy Salazar
+
 timothy.salazar@colorado.edu
 https://www.linkedin.com/in/timothy-salazar/
 https://github.com/timothy-salazar
